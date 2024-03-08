@@ -1,0 +1,11 @@
+{
+  "packagePath": "/home/rj-toky/Documents/PERSONAL/crud-generator/generate/",
+  "packageName": "rj.toky",
+  "db": {
+    "host": "localhost",
+    "port": "5432",
+    "database": "hopital",
+    "user": "postgres",
+    "password": "root"
+  }
+}
